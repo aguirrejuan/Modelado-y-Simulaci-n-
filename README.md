@@ -10,3 +10,6 @@
 * [Campos vectoriales](Campos_vectoriales.ipynb)
 * [Integración Númerica: Regla del Trapecio](trapezoidal.ipynb)
 * [Ejercicios del libro Nonlinear Dynamics And Chaos -Strogatz, S. H.](ejercicios_libro.ipynb)
+* [Proyecto: Oscilador de Colpitts](colpitts_oscillator.ipynb)
+* [Ecuaciones de Lorenz](Ecuaciones_lorenz.ipynb)
+* [Metodo Numérico de integración: Regla  trapezoidal](trapezoidal.ipynb)
